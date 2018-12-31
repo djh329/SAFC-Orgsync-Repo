@@ -1,0 +1,32 @@
+<body>
+        <div id="header">
+            <div id="org_title">
+                <!-- SAFC Logo as Background Image in CSS -->
+                <div id="nav" role="navigation">
+                    <ul>
+                        <li><a href="[[page:home]]">Home</a></li>
+                        <li><a href="[[page:guidelines]]">Guidelines</a></li>
+                        <li>
+                            <a href="[[page:about]]">About the SAFC</a>
+                            <ul><li><a href="[[page:join]]">Recruitment</a></li></ul>
+
+</li>
+                        <li><a href="[[page:calendar]]">Important Dates</a></li>
+                        <li>
+                            <a href="#">Applying for Funds</a>
+                            <ul>
+                                <li><a href="[[page:applying_for_funds]]">Overview</a></li>
+                                <li><a href="[[page:supported_expenses]]">Supported Expenses</a></li>
+                                <li><a href="[[page:orgsync_budget_requests]]">OrgSync Budget Requests</a></li>
+                                <li><a href="[[page:tier_system]]">Tier System</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="[[page:spending_funds]]">Spending Funds</a></li>
+                        <li><a href="[[page:documents]]">Documents</a></li>
+                    </ul>
+                </div><!-- end nav id -->
+            </div><!-- end org_title id -->
+        </div><!-- end header id -->
+
+        <div id="container">
+            <div id="content">
