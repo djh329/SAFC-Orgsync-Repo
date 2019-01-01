@@ -15,7 +15,7 @@ const section2= {
            'Officers of the applicant must also meet the following requirements:',
           'president and treasurer must agree to abide by standards for ethical conduct; and,',
           {"title":'president, treasurer, and advisor must affirm their approval for each request either by digital signature as the Commission provides on the specific budget.',
-          "list":["Registered president, treasurer, and advisor must be three distinct individuals"],}
+          "list":["Registered president, treasurer, and advisor must be three distinct individuals"]},
           'The signatures of the president, treasurer, and advisor must match the names listed on the group\'s profile page in Orgsync.',
           'be in good standing with the Commission.',
           'The organization must meet all eligibility requirements as well as submit both requests and supporting materials before the deadlines set by the Commission in order for the Commission to accept and review such requests and materials. The commission may not accept submissions from organizations that have not met the eligibility requirements.'
