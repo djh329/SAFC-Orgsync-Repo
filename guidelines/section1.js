@@ -1,4 +1,5 @@
-const section1 = {
+const section1 = [
+{
   "title": "Terms",
   "type": 'blank',
   "list": [
@@ -77,3 +78,4 @@ const section1 = {
 "type": 'blank',
 "list": ["title": 'The version of the guidelines posted on the Student Activities Funding Commission OrgSync website is the version of record, and it shall supersede any other existing versions. The Campus Activities Office shall maintain and modify this version according to the procedures for amendment. Commissioners and other parties may not alter the effect or applicability of the bylaws or guidelines by misstatement or misinterpretation.']
 }
+]
