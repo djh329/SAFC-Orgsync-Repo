@@ -71,4 +71,9 @@ const section1 = {
       "list": ['The Campus Activities Office is an administrative unit of the university which grants registrations to student organizations, allowing them certain privileges on campus, including the right to apply for funds from the SAFC. The office also provides extensive information and advisory resources to officers of registered student organizations.']
     }
   ]
+},
+{
+"title": "Version of Record",
+"type": 'blank',
+"list": ["title": 'The version of the guidelines posted on the Student Activities Funding Commission OrgSync website is the version of record, and it shall supersede any other existing versions. The Campus Activities Office shall maintain and modify this version according to the procedures for amendment. Commissioners and other parties may not alter the effect or applicability of the bylaws or guidelines by misstatement or misinterpretation.']
 }
