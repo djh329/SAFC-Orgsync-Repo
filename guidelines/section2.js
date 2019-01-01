@@ -1,4 +1,4 @@
-const section1 = {
+const section2= {
   "title": "Eligibility",
   "list": [
     {
