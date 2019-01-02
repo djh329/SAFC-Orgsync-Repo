@@ -3,7 +3,7 @@ const full_guidelines = {
   "type": "numeric",
   "list": [
     {
-      "title": "Defiinitions",
+      "title": "Definitions",
       "list":  section1
     },
     {
