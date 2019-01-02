@@ -3,14 +3,13 @@ const full_guidelines = {
   "type": "numeric",
   "list": [
     {
-      "title": "Definitions",
-      "list":  [section1]
-    }
-    //,
-    // {
-    //   "title": "Applicants",
-    //   "list":   section2
-    // },
+      "title": "Defiinitions",
+      "list":  section1
+    },
+    {
+      "title": "Applicants",
+      "list":   section2
+    },
     // {
     //   "title": "Request for Funds",
     //   "list":  section3
