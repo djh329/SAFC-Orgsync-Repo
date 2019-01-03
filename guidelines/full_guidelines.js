@@ -4,13 +4,12 @@ const full_guidelines = {
   "list": [
     {
       "title": "Definitions",
-      "list":  [section1]
-    }
-    //,
-    // {
-    //   "title": "Applicants",
-    //   "list":   section2
-    // },
+      "list":  section1
+    },
+    {
+      "title": "Applicants",
+      "list":   section2
+    },
     // {
     //   "title": "Request for Funds",
     //   "list":  section3

@@ -54,6 +54,8 @@ function generate_links({list, title, type}, depth=0, defaultType='numeric', pre
   var type = type ? type : defaultType
 
   var listNode = document.createElement('div');
+  var titleNode = document.createElement('div')
+
   switch(type) {
     case 'numeric':
       listNode = document.createElement('ol')
@@ -62,24 +64,21 @@ function generate_links({list, title, type}, depth=0, defaultType='numeric', pre
       listNode = document.createElement('ul')
   }
 
-  list.forEach((element, index) => {
-    var elementNode;
-    if (typeof element == "object") {
-      elementNode = document.createElement('li')
-      var children = generate_links(element, depth+1, type, prefix.concat([index]))
-      if (children) {
-        elementNode.appendChild(children)
-      }
-      else {
-        elementNode = document.createElement('div')
-      }
-    }
-    listNode.appendChild(elementNode)
-  })
-
-
-  var titleNode = document.createElement('div')
   if(title) {
+
+    list.forEach((element, index) => {
+      var elementNode = document.createElement('div');
+      if (typeof element == "object") {
+        elementNode = document.createElement('li')
+        var children = generate_links(element, depth+1, type, prefix.concat([index]))
+        if (children) {
+          elementNode.appendChild(children)
+          listNode.appendChild(elementNode)
+        }
+      }
+    })
+
+
     var titleNode = document.createElement('p')
     titleNode.style.marginTop = '0px'
     var a = document.createElement("a")
