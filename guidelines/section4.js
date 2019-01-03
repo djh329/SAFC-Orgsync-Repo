@@ -1,0 +1,1 @@
+const section4= ["The commission allocates funds according to these guidelines and its bylaws. Allocations do not guarantee that specific reimbursements or payments will be issued. For this reason, organizations are advised to consult with the Commission before entering into any commitment with financial consequences."]
