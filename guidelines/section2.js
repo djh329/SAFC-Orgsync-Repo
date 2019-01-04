@@ -37,7 +37,7 @@ const section2= [{
          'The organization functions in conjunction with one or more SAFC-funded organizations in such a way that both organizations are reasonably perceived as existing for the purpose of increasing the total amount of SAFC-funding received.'
         ]
       },
-      "Outside of the semesterly allocation decisions, the SAFC, by a majority vote of the Executive Board, will revoke an organization’s funding if it is deemed to be in violation of above requirements. The organization(s) in question may appeal this determination to the SAFC Appeals Board for review."
+      "Outside of the semesterly allocation decisions, the SAFC, by a majority vote of the Executive Board, will revoke an organization's funding if it is deemed to be in violation of above requirements. The organization(s) in question may appeal this determination to the SAFC Appeals Board for review."
       ]
     },
     {
@@ -57,7 +57,7 @@ const section2= [{
          "type": "numeric",
          "list":[
            {
-             "title":"Notify both the SAFC Co-Chairs via email to their netid’s available on the Commission website to request a 24 hour extension from the original funding request deadline:",
+             "title":"Notify both the SAFC Co-Chairs via email to their netid's available on the Commission website to request a 24 hour extension from the original funding request deadline:",
              "type":"bullet",
              "list":[
               "This request must include the evidence required below; and",
@@ -116,7 +116,7 @@ const section2= [{
           "type": "blank",
           "list":[
             {
-              "title":"Either the Office of the Dean of Students or the Chair(s) of the Commission may temporarily suspend an organization’s funds at any time. Any action to temporarily suspend funding of an applicant organization shall last no more than ten business days. Such a decision takes effect only after the following are informed:",
+              "title":"Either the Office of the Dean of Students or the Chair(s) of the Commission may temporarily suspend an organization's funds at any time. Any action to temporarily suspend funding of an applicant organization shall last no more than ten business days. Such a decision takes effect only after the following are informed:",
               "type":"numeric",
               "list":[
                 "the Office of the Dean of Students;",
@@ -133,11 +133,11 @@ const section2= [{
                  "title":"To revoke funding of an organization, the Commission must follow this procedure:",
                  "type":"numeric",
                  "list":[
-                   "the Chair(s) of the Commission must contact the officers and advisor of the organization, explaining the Commission’s intent and reasoning for proposing revocation of funding; and,",
+                   "the Chair(s) of the Commission must contact the officers and advisor of the organization, explaining the Commission's intent and reasoning for proposing revocation of funding; and,",
                    {
                      "title":"the Chair(s) of the Commission, or a designee, must arrange for a meeting between the Executive Committee and the organization so the organization may:",
                      "list":[
-                       "hear the Commission’s intent and reasoning,",
+                       "hear the Commission's intent and reasoning,",
                        "examine any evidence associated with the proposed revocation of funding,",
                        "present its case and additional evidence to the Commission, and",
                        "negotiate a mutually acceptable remedy; and,"

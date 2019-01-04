@@ -32,7 +32,7 @@ const section5 = [
       "title":"The commission:",
       "type":"numeric",
       "list":[
-        "will schedule hearings within one week of release of preliminary allocation determinations;",
+        "will schedule hearings within "+HEARINGS_SCHEDULED+" of release of preliminary allocation determinations;",
         "does not allow amendment of the originally submitted request;",
         "accepts additional documentation and statements provided by the applicant which clarify or support the requests included in the original submission; and,",
         "keeps minutes which document the names of participants in the hearing, the questions asked of the applicant, and the responses received."
@@ -42,7 +42,7 @@ const section5 = [
       "title":"The applicant:",
       "type":"numeric",
       "list":[
-        "provides no less than one and no more than three representatives of whom all must be either undergraduate student members or registered advisors; and,",
+        "provides no less than one and no more than "+HEARINGS_MAX_APPLICANTS_PRESENT+" representatives of whom all must be either undergraduate student members or registered advisors; and,",
         "limits responses to the questions posed by the Commissioners."
         ]
     }

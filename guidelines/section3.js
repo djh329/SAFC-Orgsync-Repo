@@ -97,7 +97,7 @@ const section3 = [{
     "type": "blank",
     "list": [
       {
-      "title":"The commission permits the submission of Special Cancellation Requests to allow organizations to remove select funds from the tier and efficiency spending calculation in light of circumstances that were unforeseen at the time of application. The Request must be submitted to the Commission within two (2) weeks of the organization becoming aware of the inability to fulfill the expense. The commission will determine whether or not the circumstances are unforeseen. These may include but are not limited to:",
+      "title":"The commission permits the submission of Special Cancellation Requests to allow organizations to remove select funds from the tier and efficiency spending calculation in light of circumstances that were unforeseen at the time of application. The Request must be submitted to the Commission within "+SPECIAL_CANCELATION_WINDOW+" weeks of the organization becoming aware of the inability to fulfill the expense. The commission will determine whether or not the circumstances are unforeseen. These may include but are not limited to:",
       "type":"numeric",
       "list":
         [

@@ -32,7 +32,7 @@ const section6 = [
       "type":"numeric",
       "list":[
         {
-        "title":"Appeals are submitted to the Student Assembly Vice President for Finance the Chair of the Appeals Board [gdk36@cornell.edu]. Appeals must include:",
+        "title":"Appeals are submitted to the Student Assembly Vice President for Finance the Chair of the Appeals Board ["+CHAIR_OF_APPEALS_EMAIL+"]. Appeals must include:",
         "list":[
         "name of the organization;",
         "the date and time of the organization’s appeal with the Commission regarding the allocation that is being appealed;",
@@ -92,7 +92,7 @@ const section6 = [
             "for each determination that the Commission erred in its original decision, adopts a rationale explaining its determination."
           ]
         },
-        "In determining whether guidelines were correctly interpreted the Appeals Board will consider whether the Commission’s application of its guidelines was reasonable. In determining whether the Commission erred in its determination of facts, the Appeals Board will decide based on a preponderance of evidence provided in the hearing.",
+        "In determining whether guidelines were correctly interpreted the Appeals Board will consider whether the Commission's application of its guidelines was reasonable. In determining whether the Commission erred in its determination of facts, the Appeals Board will decide based on a preponderance of evidence provided in the hearing.",
         {
           "title":"For each appeal reviewed, the Chair of the Appeals Board:",
           "type":"numeric",

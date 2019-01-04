@@ -25,7 +25,7 @@ const section1 = [
     },
     {
       "title": "Fiscal year",
-      "list": ["A university fiscal year which extends from July 1 to June 30 in the following calendar year."]
+      "list": ["A university fiscal year which extends from "+FIACAL_YEAR_START+" to "+FIACAL_YEAR_END+" in the following calendar year."]
     },
     {
       "title": "New organization",
@@ -76,6 +76,6 @@ const section1 = [
 {
 "title": "Version of Record",
 "type": 'blank',
-"list": ["title": 'The version of the guidelines posted on the Student Activities Funding Commission OrgSync website is the version of record, and it shall supersede any other existing versions. The Campus Activities Office shall maintain and modify this version according to the procedures for amendment. Commissioners and other parties may not alter the effect or applicability of the bylaws or guidelines by misstatement or misinterpretation.']
+"list": ['The version of the guidelines posted on the Student Activities Funding Commission OrgSync website is the version of record, and it shall supersede any other existing versions. The Campus Activities Office shall maintain and modify this version according to the procedures for amendment. Commissioners and other parties may not alter the effect or applicability of the bylaws or guidelines by misstatement or misinterpretation.']
 }
 ]
