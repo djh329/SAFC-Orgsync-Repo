@@ -1,5 +1,5 @@
-const FISTCAL_YEAR_START="July 1" //1.1
-const FISTCAL_YEAR_END="June 30" //1.1
+const FISCAL_YEAR_START="July 1" //1.1
+const FISCAL_YEAR_END="June 30" //1.1
 const SPECIAL_CANCELATION_WINDOW="two (2) weeks" //3.6.6
 const HEARINGS_SCHEDULED="one week" //5.3
 const HEARINGS_MAX_APPLICANTS_PRESENT= "three" //5.3.1

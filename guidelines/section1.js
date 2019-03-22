@@ -25,7 +25,7 @@ const section1 = [
     },
     {
       "title": "Fiscal year",
-      "list": ["A university fiscal year which extends from "+FIACAL_YEAR_START+" to "+FIACAL_YEAR_END+" in the following calendar year."]
+      "list": ["A university fiscal year which extends from "+FISCAL_YEAR_START+" to "+FISCAL_YEAR_END+" in the following calendar year."]
     },
     {
       "title": "New organization",
